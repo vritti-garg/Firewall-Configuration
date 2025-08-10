@@ -33,7 +33,6 @@ Below are the screenshots documenting the process of creating, testing, and remo
 *(This screenshot shows the PowerShell output where the connection test to port 23 failed, proving the rule works.)*
 ![Connection Test Failed](failed_port.jpg)
 
----
 ## Key Concepts Encountered
 This project involves several important cybersecurity concepts:
 * The function of a firewall.
@@ -41,3 +40,9 @@ This project involves several important cybersecurity concepts:
 * The definition of inbound and outbound rules.
 * Why insecure ports like Telnet (port 23) should be blocked.
 * How a firewall improves overall network security.
+
+---
+## 👤 Author
+
+* **Vritti Garg**
+* [LinkedIn](https://www.linkedin.com/in/vritti-garg-682667284/)
